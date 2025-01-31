@@ -1,4 +1,6 @@
-//Las clases no deben verse obligados a depender de interfaces que no usan
+/*Las clases no deben verse obligados a depender de interfaces que no usan
+Si las interfaces que dise;amos nos obligan a violar los principios de responsabilidad unica y sustitucion de Liskov
+significa que posiblemente tambien estemos violando el principio de segregacion de interfaces*/
 
 interface Bird
 {
